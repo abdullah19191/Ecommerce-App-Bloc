@@ -1,16 +1,25 @@
-# ecommerce_app_block
+#      <p align="center"> ECOMMERCE Block App</p>
+###  
+<p align="center">
+<img src="https://user-images.githubusercontent.com/71758955/183290031-8890edd9-f419-4574-976a-2c3741bd1e0e.gif" width="450" height="499"/>
+</p>
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+A completely Responsive Covid-19-App Works on Android & iOS!
+This app uses Tenserflow library for Detection of Covid.This is done by 
+using lung X-Rays.A Data Set is used containg data of covid lungs of different ages and 
+normal lungs of Human beings.
 
-A few resources to get you started if this is your first Flutter project:
+Using Tenserflow library we are able to conduct scanning which help us to identify 
+between lungs with covid infection and normal lungs with no covid infection.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## MAIN LIBRARIES:
+1) Bloc(For State Management)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://user-images.githubusercontent.com/38296077/126981491-e13d63ec-932d-4640-a9c2-927259ce48a7.jpg" width="350" height="150"/>
+
+## FEATURES:
+1. Add Cart
+2. Wishlist
+3. Order Cart
