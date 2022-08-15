@@ -6,10 +6,7 @@
 
 
 
-A completely Responsive Covid-19-App Works on Android & iOS!
-This app uses Tenserflow library for Detection of Covid.This is done by 
-using lung X-Rays.A Data Set is used containg data of covid lungs of different ages and 
-normal lungs of Human beings.
+A responsive ecommerce app Ios&Android.Bloc is used as statemanagement while GetX is used for Ecommerce panal statemanagement. Firebase/cloud Firestore is used as backend. It consists  mostly of all ecommerce features.
 
 Using Tenserflow library we are able to conduct scanning which help us to identify 
 between lungs with covid infection and normal lungs with no covid infection.
@@ -21,5 +18,14 @@ between lungs with covid infection and normal lungs with no covid infection.
 
 ## FEATURES:
 1. Add Cart
+
+![image](https://user-images.githubusercontent.com/71758955/184569680-ee23f99b-1aea-4f99-a5b1-82ccdf1d04f1.png)
+
 2. Wishlist
+
+![image](https://user-images.githubusercontent.com/71758955/184569754-98289c66-9258-42d2-bfb7-02e6281a2bea.png)
+
 3. Order Cart
+
+![image](https://user-images.githubusercontent.com/71758955/184569713-9d00dd6b-27c4-4df8-a925-38205900a7b2.png)
+
