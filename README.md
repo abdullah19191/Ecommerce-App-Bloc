@@ -8,8 +8,6 @@
 
 A responsive ecommerce app Ios&Android.Bloc is used as statemanagement while GetX is used for Ecommerce panal statemanagement. Firebase/cloud Firestore is used as backend. It consists  mostly of all ecommerce features.
 
-Using Tenserflow library we are able to conduct scanning which help us to identify 
-between lungs with covid infection and normal lungs with no covid infection.
 
 ## MAIN LIBRARIES:
 1) Bloc(For State Management)
